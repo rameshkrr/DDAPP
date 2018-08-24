@@ -1,0 +1,16 @@
+{
+   "expo": {
+    "name": "Dream Designers",
+    "icon": "logo3.png",
+    "version": "1.0.0",
+    "slug": "dreamdesigns",
+    "sdkVersion": "27.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.dreamdesigns.dreamdesigns"
+    },
+    "android": {
+      "package": "com.dreamdesigns.dreamdesigns"
+    }
+   }
+ }
